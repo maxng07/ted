@@ -17,7 +17,7 @@ For a quick tutorial on how to use ted, you can refer to the animated gif <a hre
   
 <h2>Download </h2>
 Ted has been tested to work on MAC OSX, but should work on Linux and Windows. I welcome any contribution to test it on both Linux and Windows system. <br>
-You can download the latest binaries here: <br>
+You can download the latest binaries <a href="https://github.com/maxng07/ted/releases">here </a>: <br>
 <h2>License </h2>
 All Rights Reserved <p>
 Text-Encipher-Decipher software uses a GO package for AES-GCMSIV which has a copyright license as part of BoringSSL. The copyright notice  is as below
