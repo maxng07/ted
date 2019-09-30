@@ -7,12 +7,12 @@ Ted supports randomness of encipher text, the same text characters will produce 
 The author does not approved of any illegal use that can constitute or classify as illegal by respective Countries Government. You can send feedback through but the author is not obligated to provide any support.
 
 <h2>Usage </h2>
-ted [options...] <p<
+ted [options...] <br>
 Options:
-  -e  Encryption set to true by default, to decrypt set -e=false or -e=0 <p>
-  -p  passphrase to be used for encryption or decryption. Please remember the passphrase. <p>
-<p>
-<p>
+  -e  Encryption set to true by default, to decrypt set -e=false or -e=0 <br>
+  -p  passphrase to be used for encryption or decryption. Please remember the passphrase. <br>
+
+</p>
 For a quick tutorial on how to use ted, you can refer to the animated gif <a href="https://github.com/maxng07/ted/blob/master/ted.gif"> here </a>
   
 <h2>Download </h2>
