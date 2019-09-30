@@ -14,7 +14,7 @@ The author does not approved of any illegal use that can constitute or classify 
 `ted [options...]` <br>
 Options: <br>
   -e  Encryption set to true by default, to decrypt set -e=false or -e=0 <br>
-  -p  passphrase to be used for encryption or decryption. Please remember the passphrase. <br>
+  -p  passphrase to be used for encryption or decryption. Please remember the passphrase used. <br>
 
 </p>
 For a quick tutorial on how to use TED, you can refer to the animated gif <a href="https://github.com/maxng07/ted/blob/master/ted.gif"> here </a>
