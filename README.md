@@ -3,10 +3,10 @@ TED or Text-Encipher-Decipher is a basic program to encipher or decipher a chunk
 
 This progam is part of a broader software application project to be used to transmit scrambled and encrypted text over both secure or insecure communication channels. This basic program is shared with the Public on general goodwill and to obtain feedback. With the later, sender can ensure no one is snooping or watching the message as text are enciphered before transmitting on an insecure channel such as the internet or SMS or popular Tencent Wechat. Even with a secure channel such as WhatsApp, the sender can ensure true privacy, only the intended recipient or group of recipients with the correct passphrase key can decipher the message. Different Passphrase key can be used, but the same key is needed to decipher the respective encrypted message encipher by that key. <p>
   
-Ted supports 
-(1) Randomness of encipher output text; the same text characters encrypted by TED will produce different message output every time, making it harder for anyone snooping around intentionally to guess what is being send. 
-(2) Support of Double-byte Characters such as Chinese Character (汉子), TED should work on other languages. Do provide feedback of any languages that is not possible to be enciphered by TED.
-(3) Integrity check is being done during decryption, if any message is altered, deciphering will produce an error and program aborted. 
+Ted supports <br>
+(1) Randomness of encipher output text; the same text characters encrypted by TED will produce different message output every time, making it harder for anyone snooping around intentionally to guess what is being send. <br>
+(2) Support of Double-byte Characters such as Chinese Character (汉子), TED should work on other languages. Do provide feedback of any languages that is not possible to be enciphered by TED. <br>
+(3) Integrity check is being done during decryption, if any message is altered, deciphering will produce an error and program aborted. <p>
 
 The author does not approved of any illegal use that can constitute or classify as illegal by respective Countries Government. You can send feedback through but the author is not obligated to provide any support.
 
