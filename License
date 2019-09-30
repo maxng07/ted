@@ -2,7 +2,7 @@ ALL RIGHTS RESERVED
 
 DUPLICATION FOR COMMERCIAL USE IS STRICTLY PROHIBITED AND THE AUTHOR DOES NOT PROVIDE ANY WARRANTIES.
 
-Text-Encipher-Decipher uses a GO package for AES-GCMSIV which has a copyright license as part of BoringSSL. The copyright notice as is below
+TED or Text-Encipher-Decipher uses a GO package for AES-GCMSIV which has a copyright license as part of BoringSSL. The copyright notice as is below
 
 /* Copyright (c) 2017, Google Inc. *
 
