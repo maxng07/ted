@@ -7,7 +7,7 @@ Ted supports randomness of encipher text, the same text characters will produce 
 The author does not approved of any illegal use that can constitute or classify as illegal by respective Countries Government. You can send feedback through but the author is not obligated to provide any support.
 
 <h2>Usage </h2>
-` ted [options...] `
+` ted [options...] ` <br>
 Options: <br>
   -e  Encryption set to true by default, to decrypt set -e=false or -e=0 <br>
   -p  passphrase to be used for encryption or decryption. Please remember the passphrase. <br>
