@@ -12,6 +12,9 @@ Options:
   -e  Encryption set to true by default, to decrypt set -e=false or -e=0
   -p  passphrase to be used for encryption or decryption. Please remember the passphrase.
 
+<p>
+For a quick tutorial on how to use ted, you can refer to the animated gif <a href="https://github.com/maxng07/ted/ted.gif"> here </a>
+  
 <h2>Download </h2>
 Ted has been tested to work on MAC OSX, but should work on Linux and Windows. I welcome any contribution to test it on both Linux and Windows system. <br>
 You can download the latest binaries here: <br>
