@@ -1,4 +1,5 @@
-#  <img src="https://github.com/maxng07/ted/blob/master/mi.png"> TED | Text-Encipher-Decipher 
+# <img src="https://github.com/maxng07/ted/blob/master/mi.png"> TED | Text-Encipher-Decipher 
+
 TED or Text-Encipher-Decipher is a basic program to encipher or decipher a chunk of text similar to enigma machine. The encipher text can then be send over SMS, WhatsApp, WeChat, LINE and even email. The same program will decipher the encrypted message to produce the original text. This will be useful if you are sending a text or message over an insecure connection or you want to ensure true privacy even on secure communication channel.
 
 This progam is part of a broader software application project to be used to transmit scrambled and encrypted text over both secure or insecure communication channels. This basic program is shared with the Public on general goodwill and to obtain feedback. With the later, sender can ensure no one is snooping or watching the message as text are enciphered before transmitting on an insecure channel such as the internet or SMS or popular Tencent Wechat. Even with a secure channel such as WhatsApp, the sender can ensure true privacy, only the intended recipient or group of recipients with the correct passphrase key can decipher the message. Different Passphrase key can be used, but the same key is needed to decipher the respective encrypted message encipher by that key. <p>
@@ -21,7 +22,7 @@ For a quick tutorial on how to use TED, you can refer to the animated gif <a hre
   
 <h2>Download </h2>
 TED has been tested to work on MAC OSX, but should work on Linux and Windows. I welcome any contribution to test TED on both Linux and Windows system. <br>
-You can download the latest binaries <a href="https://github.com/maxng07/ted/releases">here </a>: <br>
+You can download the latest binaries <a href="https://github.com/maxng07/ted/releases">here </a> <br>
 
 <h2>License </h2>
 All Rights Reserved <p>
