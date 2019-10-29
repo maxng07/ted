@@ -26,7 +26,7 @@ You can download the latest binaries <a href="https://github.com/maxng07/ted/rel
 
 <h2>License </h2>
 All Rights Reserved <p>
-Text-Encipher-Decipher software uses a GO package for AES-GCMSIV which has a copyright license as part of BoringSSL. The copyright notice  is as below
+Text-Encipher-Decipher software also uses a GO package for AES-GCMSIV which has a copyright license as part of BoringSSL. The copyright notice  is as below
 
 /* Copyright (c) 2017, Google Inc. *
 
